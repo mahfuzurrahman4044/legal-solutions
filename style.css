@@ -62,3 +62,11 @@ body {
     letter-spacing: 0%;
     text-align: center;
 } */
+
+
+
+/* ----------------------------------- main section ----------------------------------- */
+.services-section-cards-container div:hover {
+    transform: scale(1.05);
+    transition: 1s;
+}
